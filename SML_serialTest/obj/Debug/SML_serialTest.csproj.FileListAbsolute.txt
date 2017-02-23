@@ -1,0 +1,21 @@
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\bin\Debug\SML_serialTest.exe.config
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\bin\Debug\SML_serialTest.exe
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\bin\Debug\SML_serialTest.pdb
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\obj\Debug\SML_serialTest.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\obj\Debug\SML_serialTest.Form1.resources
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\obj\Debug\SML_serialTest.Properties.Resources.resources
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\obj\Debug\SML_serialTest.csproj.GenerateResource.Cache
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\obj\Debug\SML_serialTest.exe
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\obj\Debug\SML_serialTest.pdb
+F:\visual studio 2015\Projects\SML_serialTest\SML_serialTest\obj\Debug\SML_serialTest.IO_control_form.resources
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\bin\Debug\SML_serialTest.exe.config
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\obj\Debug\SML_serialTest.exe
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\obj\Debug\SML_serialTest.pdb
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\bin\Debug\SML_serialTest.exe
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\bin\Debug\SML_serialTest.pdb
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\obj\Debug\SML_serialTest.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\obj\Debug\SML_serialTest.Form1.resources
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\obj\Debug\SML_serialTest.IO_control_form.resources
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\obj\Debug\SML_serialTest.Properties.Resources.resources
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\obj\Debug\SML_serialTest.translate_form.resources
+F:\visual studio 2015\Projects\SML_serialTest 0.1\SML_serialTest\obj\Debug\SML_serialTest.csproj.GenerateResource.Cache
